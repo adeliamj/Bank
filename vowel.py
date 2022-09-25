@@ -1,5 +1,5 @@
 #vowel declaration
-VOWLES = ("a", "i", "u", "e", "o")
+VOWELS = ("a", "i", "u", "e", "o")
 
 #user input
 message = input("Enter your message: ").lower().strip()
